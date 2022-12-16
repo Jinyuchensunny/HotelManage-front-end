@@ -1,1 +1,0 @@
-# hotelmanage-front-end
